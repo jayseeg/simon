@@ -45,3 +45,12 @@ body {
   right: 0;
   background: yellow;
 }
+
+.activeQuadrant {
+    position: absolute;
+    font-size: 40px;
+    left: 50%;
+    top: 50%;
+}
+
+
